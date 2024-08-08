@@ -1,4 +1,4 @@
-
+![logo](https://github.com/saraiftikhar14/saraiftikhar14/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Sara Iftikhar</h1>
 <h3 align="center">👩‍💻 Tech Enthusiast | 🎨 Graphic Designer| 🖌️ UI/UX Designer | 📄 Documentary Creator | 📱 Social Media Manager</h3>
 
