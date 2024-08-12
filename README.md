@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/@saraiftikhar19" target="blank"><img src="https://img.shields.io/twitter/follow/@saraiftikhar19?logo=twitter&style=for-the-badge" alt="saraiftikhar19" /></a>
+ <a href="https://linkedin.com/in/sara-iftikhar-94942b1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sara-iftikhar-94942b1b6" height="30" width="40" /></a>
 </p>
 
 - 🌱 **I’m currently learning:** Diving into the latest frameworks and expanding my skills with cutting-edge courses.
