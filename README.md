@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/@saraiftikhar19" target="blank"><img src="https://img.shields.io/twitter/follow/@saraiftikhar19?logo=twitter&style=for-the-badge" alt="@saraiftikhar19" /></a>
+  <a href="https://twitter.com/@saraiftikhar19" target="blank"><img src="https://img.shields.io/twitter/follow/@saraiftikhar19?logo=twitter&style=for-the-badge" alt="saraiftikhar19" /></a>
 </p>
 
 - 🌱 **I’m currently learning:** Diving into the latest frameworks and expanding my skills with cutting-edge courses.
