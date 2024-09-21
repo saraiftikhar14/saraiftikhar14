@@ -1,5 +1,5 @@
 ![logo](https://github.com/saraiftikhar14/saraiftikhar14/blob/main/gif.gif)<h1 align="center">Hi 👋, I'm Sara Iftikhar</h1>
-<h3 align="center">Tech Enthusiast | Graphic Designer | UI/UX Designer | Documentary Creator | Social Media Manager</h3>
+<h3 align="center">Tech Enthusiast | Graphic Designer | UX/UI Designer | Documentary Creator | Social Media Manager</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <h1 align="Left">About Me</h1>
